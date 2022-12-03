@@ -1,2 +1,3 @@
-# Jogo-da-memoria
-Jogo da memoria usando HTML5, CSS e JavaScript
+# Memory-Game
+
+Creating the game using HTML5, CSS and JavaScript.
